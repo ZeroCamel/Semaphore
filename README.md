@@ -1,2 +1,2 @@
-# zhaijingfu-outlook.com
+# 线程同步-旗语锁定
 Semaphore
